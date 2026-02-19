@@ -1,2 +1,17 @@
-# iris-ml-streamlit-app
-Iris Flower Prediction App using Streamlit and Scikit-learn
+# 🌸 Iris Flower Classification App
+
+## 🚀 Live Demo
+[Click Here to View App](https://mohammedhussainali1346-iris-ml-streamlit--classification-yp7hpf.streamlit.app/)
+
+## 🛠 Tech Stack
+- Python
+- Scikit-learn
+- Streamlit
+- Pandas
+- NumPy
+
+## 📌 Features
+- Real-time prediction
+- Interactive sliders
+- Random Forest model
+- Clean UI

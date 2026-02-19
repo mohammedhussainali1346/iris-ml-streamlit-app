@@ -5,7 +5,8 @@
 
 ## 📸 App Screenshot
 
-![App Screenshot]([Streamlit.pdf](https://github.com/user-attachments/files/25404716/Streamlit.pdf))
+![App Screenshot](![Streamlit](https://github.com/user-attachments/assets/bb6567d6-56f7-4b1f-a72a-e802eb86e0d7)
+)
 
 
 ## 🛠 Tech Stack

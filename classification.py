@@ -3,6 +3,9 @@ import pandas as pd
 from sklearn.datasets import load_iris
 from sklearn.ensemble import RandomForestClassifier
 
+st.title("🌸 Iris Flower Classification App")
+st.write("This ML model predicts Iris species using Random Forest.")
+
 @st.cache_data
 def load_data():
     iris = load_iris()
@@ -31,4 +34,5 @@ prediction = model.predict(input_data)
 predicted_species=target_name[prediction[0]]
 
 st.write("Prediction")
+
 st.write(f"The prediction species is:{predicted_species}")
